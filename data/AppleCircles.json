@@ -1,9 +1,9 @@
 {
     "id": 124393331,
     "name": "Apple Circles",
-    "author": "9panda",
-    "creators": ["9panda", "Sterslo"],
-    "verifier": "9panda",
+    "author": "Panda",
+    "creators": ["Panda", "Sterslo"],
+    "verifier": "Panda",
     "verification": "https://www.youtube.com/watch?v=bjsCQmXMQPg",
     "percentToQualify": 50,
     "password": "Not Copyable",
@@ -11,5 +11,6 @@
     ]
 
 }
+
 
 
