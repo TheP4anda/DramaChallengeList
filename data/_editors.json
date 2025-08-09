@@ -5,23 +5,23 @@
         "link": "https://www.youtube.com/channel/UCLOTPNCCFSNJ3FcmwMkSIVw"
     },
     {
-        "role": "admin",
+        "role": "Sketch",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/channel/UCehatMcR72B80-VM83JuJiQ"
     },
     {
-        "role": "helper",
+        "role": "Joel",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
     },
     {
-        "role": "trial",
+        "role": "Nobody",
         "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
     },
     {
-        "role": "dev",
+        "role": "Panda",
         "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/channel/UCLOTPNCCFSNJ3FcmwMkSIVw"
     }
 ]
