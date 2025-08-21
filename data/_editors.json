@@ -6,6 +6,11 @@
     },
     {
         "role": "admin",
+        "name": "9pandaGD",
+        "link": "https://www.youtube.com/channel/UCLOTPNCCFSNJ3FcmwMkSIVw"
+    },
+    {
+        "role": "helper",
         "name": "DramaGD",
         "link": "https://www.youtube.com/@dramaGD"
     },
@@ -16,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "Panda",
+        "name": "9pandaGD",
         "link": "https://www.youtube.com/channel/UCLOTPNCCFSNJ3FcmwMkSIVw"
     }
 ]
