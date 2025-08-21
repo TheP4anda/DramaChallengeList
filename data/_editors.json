@@ -1,11 +1,11 @@
 [
     {
-        "role": "Panda",
-        "name": "List Owner",
+        "role": "owner",
+        "name": "Panda",
         "link": "https://www.youtube.com/channel/UCLOTPNCCFSNJ3FcmwMkSIVw"
     },
     {
-        "role": "Sketch",
+        "role": "admin",
         "name": "List Admin",
         "link": "https://www.youtube.com/channel/UCehatMcR72B80-VM83JuJiQ"
     },
