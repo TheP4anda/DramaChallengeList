@@ -11,8 +11,13 @@
     },
     {
         "role": "helper",
-        "name": "Mundane",
+        "name": "MundaneGD",
         "link": "https://www.youtube.com/channel/UCehatMcR72B80-VM83JuJiQ"
+    },
+    {
+        "role": "helper",
+        "name": "usernamejade",
+        "link": "https://www.youtube.com/channel/UCAEKxSwksFbBXgy7XoTxWUw"
     },
     {
         "role": "dev",
