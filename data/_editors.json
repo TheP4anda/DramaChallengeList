@@ -6,22 +6,17 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "DramaGD",
+        "link": "https://www.youtube.com/@dramaGD"
+    },
+    {
+        "role": "helper",
+        "name": "Sketch",
         "link": "https://www.youtube.com/channel/UCehatMcR72B80-VM83JuJiQ"
     },
     {
-        "role": "Joel",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
-    },
-    {
-        "role": "Nobody",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
-    },
-    {
-        "role": "Panda",
-        "name": "List Coder",
+        "role": "dev",
+        "name": "Panda",
         "link": "https://www.youtube.com/channel/UCLOTPNCCFSNJ3FcmwMkSIVw"
     }
 ]
