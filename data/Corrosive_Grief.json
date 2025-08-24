@@ -8,6 +8,14 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Jonah",
+            "link": "https://www.youtube.com/watch?v=8KNWIXQis4g",
+            "percent": 100,
+            "hz": 480
+        }
+
     ]
 }
+
 
