@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "gabeygooberson",
+            "link": "https://medal.tv/games/geometry-dash/clips/kXZ0ZYh3VZ4bm067l?invite=cr-MSxCR08sNTcwMjQyMg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Jonah",
             "link": "https://www.youtube.com/watch?v=01SM4I0U7C8",
             "percent": 100,
@@ -28,6 +34,7 @@
         }
     ]
 }
+
 
 
 
