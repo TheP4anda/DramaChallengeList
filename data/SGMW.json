@@ -19,9 +19,16 @@
             "link": "https://www.youtube.com/watch?v=y1CE7expSvk",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Minimay",
+            "link": "https://www.youtube.com/live/xFvqQvEfwuM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
+
 
 
 
