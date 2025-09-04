@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Lumen [GD]",
+            "link": "https://www.youtube.com/watch?v=zy5hP6vZhTY",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
+
