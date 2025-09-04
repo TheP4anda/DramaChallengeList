@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "MundaneGD",
+            "link": "https://www.youtube.com/watch?v=Rrs69lm3mWI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
