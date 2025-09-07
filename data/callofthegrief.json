@@ -8,11 +8,5 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Bloopee",
-            "link": "https://www.youtube.com/watch?v=5_97TA9C-es",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
