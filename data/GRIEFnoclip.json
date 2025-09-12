@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Panda",
+            "link": "https://youtu.be/gD54nfpQOT4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
+
