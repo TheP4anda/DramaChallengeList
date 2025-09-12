@@ -37,6 +37,12 @@
             "link": "https://youtu.be/HCHF_jVcSGE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Cramble",
+            "link": "https://www.youtube.com/watch?v=i_oPDLJGGvg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
