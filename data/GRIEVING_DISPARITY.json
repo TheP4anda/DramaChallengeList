@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Cramble",
+            "link": "https://www.youtube.com/watch?v=i_oPDLJGGvg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
+
