@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=i_oPDLJGGvg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Panda",
+            "link": "https://youtu.be/6oFgagYoA_o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
