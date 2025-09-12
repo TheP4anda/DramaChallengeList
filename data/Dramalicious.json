@@ -19,9 +19,16 @@
             "link": "https://www.youtube.com/watch?v=jZABuaQJTu0",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Panda",
+            "link": "https://youtu.be/lqvmOMKyLP4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
+
 
 
 
