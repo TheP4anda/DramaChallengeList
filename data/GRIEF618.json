@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Cramble",
+            "link": "https://www.youtube.com/watch?v=oSkf6ljbRhk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Bloopee",
             "link": "https://youtu.be/uJGBogxfmWw",
             "percent": 100,
@@ -16,4 +22,5 @@
         }
     ]
 }
+
 
