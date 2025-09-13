@@ -33,12 +33,6 @@
             "hz": 240
         },
         {
-            "user": "Panda",
-            "link": "https://www.youtube.com/watch?v=9smVQC6R3R4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "xelek",
             "link": "https://www.youtube.com/watch?v=Vd1GFFQtaMU",
             "percent": 100,
@@ -76,6 +70,7 @@
         }
     ]
 }
+
 
 
 
